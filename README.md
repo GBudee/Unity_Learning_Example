@@ -1,4 +1,4 @@
-# Unity_VR_Learning_Example
+# Unity_Learning_Example
 For use by Christine Talmadge's robotics class.
 
 ### About Game Development
